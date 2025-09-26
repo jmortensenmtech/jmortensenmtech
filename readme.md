@@ -12,16 +12,16 @@ Butte High School 2022
 
 Montana Technological University 2027
 
-### Technical Skills
+### Skills
 
 #### Programming Languages
 
 C, C++, Python, JavaScript, React, CSS, Html, Markdown, TypeScript, 
 
-#### Tools
+#### Tools/Programs
 
 GitHub, Visual Studio, Azure DevOps, AWS, AutoCAD
 
-#### Skills
+### Interests
 
 
