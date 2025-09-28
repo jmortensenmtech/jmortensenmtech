@@ -1,6 +1,6 @@
 # Jak Mortensen
 
-![Resume Picture](JMortensenPic.jpg)
+<img src="JMortensenPic.jpg" alt="Profile Photo" width="150">
 
 ## Short Biography
 
