@@ -40,6 +40,15 @@ My name is Jak Mortensen. I am currently enrolled at Montana Technological Unive
 - AWS
 - AutoCAD
 
+## Work Experience
+
+- **Software Development Intern**   
+    Solstice Innovations (Summer 2024 and 2025)
+    - Aided in writing code essential for site functionality with GitHub and Azure Devops.
+    - Attended daily and weekly meeting to collaborate with teams for a variety of purposes.
+    - Participated in quality assurance testing, bug reporting.
+
+
 ## Interests
 
 - Software Development
