@@ -1,5 +1,6 @@
 # Jak Mortensen
 
+<!--My image was too big, so I used this formatting to scale it down when rendered. -->
 <img src="JMortensenPic.jpg" alt="Profile Photo" width="150">
 
 ## Short Biography
