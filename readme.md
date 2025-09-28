@@ -1,6 +1,6 @@
 # Jak Mortensen
 
-PHOTOOOOOOOOOOOOOOOOOOOOOOOO
+![Resume Picture](JMortensenPic.jpg)
 
 ## Short Biography
 
@@ -8,7 +8,7 @@ My name is Jak Mortensen. I am currently enrolled at Montana Technological Unive
 
 ## Contact
 
-- Email: [jmortensen@mtech.edu](mailto:jmortensen@mtech.edu)
+- Email: jmortensen@mtech.edu
 
 ## Education
 
