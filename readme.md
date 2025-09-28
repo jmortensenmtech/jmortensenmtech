@@ -1,27 +1,49 @@
-# My Portfolio
-
-## Jak Mortensen
+# Jak Mortensen
 
 PHOTOOOOOOOOOOOOOOOOOOOOOOOO
 
-Biogragphy ffffffffffffffffffffffffffffffffffffffffff
+## Short Biography
 
-### Education
+My name is Jak Mortensen. I am currently enrolled at Montana Technological University, and am on track to graduate in 2027 with a Bachelors in Computer Science. I am very interested in computers, both physical parts and development usage.
 
-Butte High School 2022
+## Contact
 
-Montana Technological University 2027
+- Email: [jmortensen@mtech.edu](mailto:jmortensen@mtech.edu)
 
-### Skills
+## Education
 
-#### Programming Languages
+- Butte High School 2022.
 
-C, C++, Python, JavaScript, React, CSS, Html, Markdown, TypeScript, 
+- Montana Technological University (Expected Graduation 2027): Bachelors Degree in Computer Science.
 
-#### Tools/Programs
+## Skills
 
-GitHub, Visual Studio, Azure DevOps, AWS, AutoCAD
+### Programming Languages
 
-### Interests
+| Language           | Proficiency      |
+|--------------------|------------------|
+| C/C++              | Advanced         |
+| Python             | Advanced         |
+| HTML/CSS           | Beginner         |
+| Git                | Beginner         |
+| React              | Intermediate     |
+| JavaScript         | Intermediate     |
+| TypeScript         | Intermediate     |
+| Markdown           | Intermediate     |
 
+### Tools/Programs
+
+- GitHub 
+- Visual Studio
+- Azure DevOps
+- AWS
+- AutoCAD
+
+## Interests
+
+- Software Development
+- Artifical Intelligence
+- Machine Learning
+- Outdoor Activites
+- Video Games
 
